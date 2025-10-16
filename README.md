@@ -13,13 +13,13 @@ Las principales **dificultades detectadas** se relacionan con las **unidades lé
 
 Además, se observa que el rendimiento de cada sistema refleja su finalidad: **spaCy, basado en etiquetas de *Universal Dependencies* (UD), prioriza la unificación categorial y la simplicidad estructural** para favorecer comparaciones interlingüísticas, mientras que **FreeLing, sustentado en el *tagset* EAGLES, persigue una mayor especificidad y exhaustividad morfológica**.
 
-Finalmente, se aprecia que spaCy y FreeLing muestran diferente precisión, según el idioma del texto analizado. En italiano la precisión de spaCy es mayor que en español en ciertos aspectos, debido a que el corpus de base, *Italian Stanford Dependency Treebank (ISDT)*, conserva etiquetas más detalladas, en su conversión a UD, que el corpus español, UD AnCora.
+Finalmente, se aprecia que spaCy y FreeLing muestran diferente precisión, según el idioma del texto analizado. **En italiano la precisión de spaCy es mayor que en español** en ciertos aspectos, debido a que el corpus de base, *Italian Stanford Dependency Treebank (ISDT)*, conserva etiquetas más detalladas, en su conversión a UD, que el corpus español, UD AnCora.
 
 **Archivos del repositorio**:
 
 **POS_spaCy.ipynb**: cuaderno de *Jupyter* con el código en lenguaje de programación Python de la tokenización, lematización y etiquetado POS realizadas con spaCy de los textos en español e italiano.
 
-**etiquetado_POS.pdf**: documento analítico y comparativo en el que se adjuntan los docuementos de entrada y salida, tras el etiquetado POS realizado por spaCy y FreeLing en ambos idiomas.
+**etiquetado_POS.pdf**: documento analítico y comparativo en el que se adjuntan los textos de entrada y salida, tras el etiquetado POS realizado por spaCy y FreeLing en ambos idiomas.
 
 **Librería y herramienta empleada para el PLN**: spaCy (Python) y FreeLing (versión web).
 
