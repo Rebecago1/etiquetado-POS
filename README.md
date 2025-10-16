@@ -1,6 +1,6 @@
 **Descripción**
 
-Este proyecto presenta un **estudio comparativo entre dos herramientas de Procesamiento del Lenguaje Natural (PLN)** de código abierto, **spaCy y FreeLing**, aplicadas al análisis lingüístico de dos breves textos —uno en español y otro en italiano—.
+Este proyecto, surgido a partir de una tarea propuesta en la asignatura *Etiquetado POS y lematización*, perteneciente al Máster Universitario en Procesamiento dle Lenguaje y aplicaciones de la IA a la Lingüística de la Universidad de La Rioja, presenta un **estudio comparativo entre dos herramientas de Procesamiento del Lenguaje Natural (PLN)** de código abierto, **spaCy y FreeLing**, aplicadas al análisis lingüístico de dos breves textos —uno en español y otro en italiano—.
 El objetivo principal es observar las diferencias y el grado de precisión en los procesos de tokenización, lematización y etiquetado morfosintáctico (**POS *tagging***) en cada uno de los sistemas analizados.
 
 Por lo que respecta al procesamiento del lenguaje con spaCy, se han utilizado los modelos multilingües disponibles en Python, mientras que en el caso de FreeLing, se ha empleado la versión en línea, a través de su demostrador oficial, que ofrece configuraciones idiomáticas.
