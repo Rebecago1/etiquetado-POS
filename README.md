@@ -17,6 +17,6 @@ Finalmente, se observa que spaCy y FreeLing muestran diferente precisión, segú
 
 **Archivos del repositorio**:
 
-**POS_spacy.ipynb**: cuaderno de *Jupyter* con el código en lenguaje de programación Python de la tokenización, lematización y etiquetado POS realizadas con spaCy de los textos en español e italiano.
+**POS_spaCy.ipynb**: cuaderno de *Jupyter* con el código en lenguaje de programación Python de la tokenización, lematización y etiquetado POS realizadas con spaCy de los textos en español e italiano.
 
 **etiquetado_POS.pdf**: documento analítico y comparativo en el que se adjuntan los docuementos de entrada y salida, tras el etiquetado POS realizado por spaCy y FreeLing en ambos idiomas.
